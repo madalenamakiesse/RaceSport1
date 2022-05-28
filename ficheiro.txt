@@ -1,0 +1,62 @@
+Fórmula 1, 2020
+
+Classificados apos 3 provas realizadas
+
+Pilotos
+1. Felipe Pasta, Ferrari (Ferrari), 39
+2. Fernando Afonso, Ferrari (Ferrari), 37
+3. Sebastian Pappel, Red Bull (Renault), 37
+4. Jason Bottom, McLaren (Mercedes), 35
+5. Nico Rosbife, Mercedes (Mercedes), 35
+6. Jerry Lewis Hamilton, McLaren (Mercedes), 31
+7. Robert Cubico, Renault (Renault), 30
+8. Mark Bebber, Red Bull (Renault), 24
+9. Adrian Grosso, Force India (Mercedes), 10
+10. Michael Schumasso, Mercedes (Mercedes), 9
+11. Vitantonio Tiuzzi, Force India (Mercedes), 8
+12. Rubens Barriquebra, Williams (Cosworth), 5
+13. Jaime Alguemsuave, Toro Rosso (Ferrari), 2
+14. Nico Inkrivelhulk, Williams (Cosworth), 1
+15. Bruno Megasena, Hispania (Cosworth), 0
+16. Heikki Kovarrasen, Lotus (Cosworth), 0
+17. Jarro Bulli, Lotus (Cosworth), 0
+18. Kamui Kambalashi, BMW Sauber (Ferrari), 0
+19. Karun Chanbinhok, Hispania (Cosworth), 0
+20. Lucas Semgrassi, Virgin (Cosworth), 0
+21. Pedro de lo Cravo, BMW Sauber (Ferrari), 0
+22. Sebastien Boemio, Toro Rosso (Ferrari), 0
+23. Timo Colt, Virgin (Cosworth), 0
+24. Vitaly Petregulhov, Renault (Renault), 0
+
+Equipas
+1. Ferrari (Ferrari), 76
+2. McLaren (Mercedes), 66
+3. Red Bull (Renault), 61
+4. Mercedes (Mercedes), 44
+5. Renault (Renault), 30
+6. Force India (Mercedes), 18
+7. Williams (Cosworth), 6
+8. Toro Rosso (Ferrari), 2
+9. BMW Sauber (Ferrari), 0
+10. Hispania (Cosworth), 0
+11. Lotus (Cosworth), 0
+12. Virgin (Cosworth), 0
+
+Corrida de Tartarugas de Angola, 2021
+
+Classificados apos 2 provas realizadas
+
+Pilotos
+1. Donatello, Turtles Stars, 10
+2. Elio, Space Turtles, 10
+3. Michaelangelo, United Turtles, 8
+4. Mestre Splinter, Infinity Turtles, 6
+5. Leonardo, Flash Turtles, 2
+
+Equipas
+1. Space Turtles, 10
+2. Turtles Stars, 10
+3. United Turtles, 8
+4. Infinity Turtles, 6
+5. Flash Turtles, 2
+
